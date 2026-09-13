@@ -1,0 +1,22 @@
+#!/usr/bin/env python3
+"""
+CYBERSECURITY ANALYSIS TOOL
+Defensive / passive analysis only.
+
+Features:
+- Phone intelligence (passive)
+- Phone scam / reputation analysis
+- Local scam-report database (SQLite)
+- Username / social presence search (public sources)
+- Domain & DNS intelligence
+- IP intelligence
+- URL security analysis
+- HTTP security headers
+- TLS certificate analysis
+- File hashing and entropy analysis
+- IOC auto-detection
+- JSON report export
+
+Use only on systems, domains, files, numbers, and data you are authorized
+to analyze. A low reputation score does NOT prove that a number is safe.
+"""
